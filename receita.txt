@@ -11,11 +11,20 @@ ________________________________________________
 Modo de preparo:
 
 1. Coloque o fogo para ferver.
+<<<<<<< HEAD
 2. Espere 5 min
 3. Em seguida coloque as 4 colheres de ketchup e mexa.
 4. Depois quando a agua estiver fervendo ponha o miojo.
 5. Depois rale a mussarela em cima do miojo.
 6. Bom apetite!
+=======
+2. Espere 5 min.
+3. Em seguida coloque as 4 colheres de ketchup e mexa.
+4. Depois quando a agua estiver fervendo ponha o miojo.
+5. Depois rale a mussarela.
+6. Adiciona uma pitada de pimenta 
+7. Bom apetite!
+>>>>>>> 74abf29ee2d6dc6737b070dab09d152c2e42c957
 ________________________________________________
 
 Avaliações:
