@@ -5,26 +5,17 @@ Ingredientes:
 - 1 pacote de miojo
 - 1 poção de ketchup
 - 4 colheres de sopa ketchup 
-- pimenta
-- 1 pedaço de mussarela
+- 1 pedaço de queijo mussarela
 ________________________________________________
 
 Modo de preparo:
 
-<<<<<<< HEAD
 1. Coloque o fogo para ferver.
-2. Em seguida coloque as 4 colheres de ketchup e mexa.
-3. Depois quando a agua estiver fervendo ponha o miojo.
-4. Depois rale a mussarela.
-5. Adiciona uma pitada de pimenta 
-6. Bom apetite!
-=======
-1. Tempo de preparo: 5min
-2. Coloque o fogo para ferver.
+2. Espere 5 min
 3. Em seguida coloque as 4 colheres de ketchup e mexa.
 4. Depois quando a agua estiver fervendo ponha o miojo.
-5. Bom apetite!
->>>>>>> 69f5a8fdc7ba4b14342cb680fdeceac57f791299
+5. Depois rale a mussarela em cima do miojo.
+6. Bom apetite!
 ________________________________________________
 
 Avaliações:
@@ -32,5 +23,8 @@ Avaliações:
 "Muito saboroso! A receita é simples e rápida, perfeita para um jantar durante a semana."
 "Adicionei alguns legumes e ficou ótimo. A receita base é excelente para personalizar."
 "O tempo de preparo indicado estava incorreto. Precisei de mais tempo para cozinhar."
+"Eu achei uma receita bem diferente, fiz para os meus filhos e eles nao gostaram"
+"Gostei da receita, apimentado da forma q eu gosto"
+"Fiz para comer sozinho, se for comer sozinho eu super indico"
 
 ________________________________________________
